@@ -1,10 +1,9 @@
 <h1 align="center">
     < 📚 > <br>
-        ESTUDO SPRING BOOT E JPA
 PROJETO API REST COM JAVA E SPRING BOOT
 </h1>
     <h2 align="center">
-    SERIE REST API
+    ESTUDO SPRING BOOT E JPA
     </h2>
 <h4 align="center">
 API REST com uso do JAVA, JPA, SPRING BOOT e Postgresql
