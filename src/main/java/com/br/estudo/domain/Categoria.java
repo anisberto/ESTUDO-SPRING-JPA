@@ -1,12 +1,11 @@
 package com.br.estudo.domain;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Objects;
 
-
+@Table
+@Entity
 public class Categoria implements Serializable {
     private static final long serialVersionUID = 1;
 
